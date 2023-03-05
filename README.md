@@ -1,6 +1,6 @@
 # Introduction
 
-- This is Restaurant landing page project with React , Hooks: useContext and useReducer
+- This is Food landing page project with React , Hooks: useContext and useReducer
 
 # Page
 
